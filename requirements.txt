@@ -1,0 +1,6 @@
+pandas
+numpy
+Faker
+pyodbc
+SQLAlchemy
+python-dotenv
