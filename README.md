@@ -103,6 +103,8 @@ The SQL Server database contains the following tables:
 -   `dim_plan` → `fact_subscription`
 -   `dim_plan` → `fact_customer_monthly`
 
+  ![Data Model](docs/data_model.png)
+
 ------------------------------------------------------------------------
 
 ## Key Analysis Areas
