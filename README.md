@@ -60,9 +60,7 @@ Analysis → Power BI Dashboard**
 
 ### Architecture Diagram
 
-```{=html}
-<!-- Add your project architecture image here -->
-```
+
 ![Project Architecture](docs/project_architecture.png)
 
 ------------------------------------------------------------------------
@@ -165,9 +163,7 @@ Provides project navigation and high-level KPIs.
 -   Total Revenue
 -   Revenue at Risk
 
-```{=html}
-<!-- Add Home Page screenshot here -->
-```
+
 ![Home Page](screenshots/01_home_page.png)
 
 ------------------------------------------------------------------------
@@ -197,9 +193,7 @@ performance.
 -   Plan
 -   Acquisition Channel
 
-```{=html}
-<!-- Add Executive Overview screenshot here -->
-```
+
 ![Executive Overview](screenshots/02_executive_overview.png)
 
 ------------------------------------------------------------------------
@@ -227,9 +221,7 @@ Focuses on retention trends, churn timing and cohort behavior.
 -   Cohort Month
 -   Acquisition Channel
 
-```{=html}
-<!-- Add Customer Retention screenshot here -->
-```
+
 ![Customer Retention](screenshots/03_customer_retention.png)
 
 ------------------------------------------------------------------------
@@ -257,9 +249,7 @@ Focuses on customer lifetime value and revenue contribution.
 -   Plan
 -   Customer Status
 
-```{=html}
-<!-- Add Customer Value screenshot here -->
-```
+
 ![Customer Value](screenshots/04_customer_value.png)
 
 ------------------------------------------------------------------------
@@ -290,22 +280,23 @@ For the detailed interpretation and recommendations, see
 
 ## Documentation
 
-  ----------------------------------------------------------------------------------------------
-  Document                                                   Description
-  ---------------------------------------------------------- -----------------------------------
-  [`docs/data_dictionary.md`](docs/data_dictionary.md)       Definitions of important tables and
-                                                             columns
+  --------------------------------------------------------------------------------------------------------
+  Document                                                           Description
+  ---------------------------------------------------------------    -------------------------------------
+  [`docs/data_dictionary.md`](docs/data_dictionary.md)               Definitions of important tables and
+                                                                     columns
 
-  [`docs/business_insights.md`](docs/business_insights.md)   Business problem, findings and
-                                                             recommendations
+  [`docs/business_insights.md`](docs/business_insights.md)           Business problem, findings and
+                                                                     recommendations
 
-  [`docs/dashboard_guide.md`](docs/dashboard_guide.md)       Dashboard pages, KPIs, visuals and
-                                                             filters
+  [`docs/dashboard_guide.md`](docs/dashboard_guide.md)               Dashboard pages, KPIs, visuals and
+                                                                     filters
 
-  `docs/project_architecture.png`                            Project architecture diagram
-  ----------------------------------------------------------------------------------------------
+  [`docs/project_architecture.png`](docs/project_architecture.png)   Project architecture diagram
+  
+------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 
 ## SQL Analysis
 
@@ -366,8 +357,7 @@ The raw CSV files are stored under:
 data/raw/
 ```
 
-Large or generated datasets may be excluded from GitHub through
-`.gitignore`.
+
 
 ------------------------------------------------------------------------
 
@@ -461,8 +451,6 @@ view the analytical dashboard.
     (\$)**.
 -   The dashboard is designed for analytical and portfolio demonstration
     purposes.
--   Raw/generated datasets may not be committed to GitHub when they are
-    large.
 -   SQL Server is the database used for this project.
 
 ------------------------------------------------------------------------
