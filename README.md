@@ -366,16 +366,32 @@ data/raw/
 ## Repository Structure
 
 ``` text
-saas-customer-churn-analysis/
+saas-customer-churn-retention-analytics/
 │
 ├── data/
-│   └── raw/
+│   ├── raw/
+│   │   ├── dim_customer.csv
+│   │   ├── dim_plan.csv
+│   │   ├── fact_customer_monthly.csv
+│   │   ├── fact_payment.csv
+│   │   └── fact_subscription.csv
+│   │
+│   └── .gitkeep
 │
 ├── docs/
-│   ├── data_dictionary.md
 │   ├── business_insights.md
 │   ├── dashboard_guide.md
+│   ├── data_dictionary.md
+│   ├── data_model.png
 │   └── project_architecture.png
+│
+├── powerbi/
+│   └── SaaS_Churn_Retention.pbix
+│
+├── python/
+│   ├── __init__.py
+│   ├── generate_dataset.py
+│   └── profile_dataset.py
 │
 ├── screenshots/
 │   ├── 01_home_page.png
@@ -391,10 +407,8 @@ saas-customer-churn-analysis/
 │   ├── 05_customer_value_analysis.sql
 │   └── 06_revenue_risk_analysis.sql
 │
-├── src/
-│   └── Python source files
-│
 ├── .gitignore
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
