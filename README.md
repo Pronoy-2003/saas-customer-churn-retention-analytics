@@ -481,3 +481,13 @@ Analysis → Power BI Dashboard → Business Insights**
 It combines data preparation, relational database design, SQL analysis,
 KPI development, dashboard design, and business interpretation into a
 single SaaS analytics solution.
+
+------------------------------------------------------------------------
+
+## Future Improvements
+
+- **Real-Time Data Integration:** Connect to live SaaS data sources to automate customer and subscription data updates.
+- **Advanced Churn Analysis:** Identify key churn drivers using statistical analysis and predictive modeling.
+- **Automated Data Pipeline:** Automate data generation, validation, and SQL Server data loading to reduce manual effort.
+- **Enhanced Power BI Dashboard:** Add drill-through pages, dynamic tooltips, and more detailed customer segmentation.
+- **Customer Retention Recommendations:** Develop targeted retention strategies based on customer behavior, payment failures, and feature adoption.
