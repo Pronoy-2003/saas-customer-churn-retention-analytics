@@ -212,12 +212,7 @@ The results are descriptive and diagnostic; the project does not currently inclu
 - **Enhanced Power BI experience:** Add drill-through pages, richer tooltips, and more detailed customer segmentation.
 - **Retention recommendations:** Develop targeted retention actions for high-risk customer segments.
 
-## Author and Contact
 
-**Pronoy Sonowal**
-
-- GitHub: [Pronoy-2003](https://github.com/Pronoy-2003)
-- Project repository: [saas-customer-churn-retention-analytics](https://github.com/Pronoy-2003/saas-customer-churn-retention-analytics)
 
 ## GitHub Repository Structure
 
@@ -265,3 +260,12 @@ saas-customer-churn-retention-analytics/
 ├── README.md
 └── requirements.txt
 ```
+
+
+## Author and Contact
+
+**Pronoy Pryunkush Sonowal**
+
+-   **GitHub:** https://github.com/Pronoy-2003
+-   **LinkedIn:** www.linkedin.com/in/pronoy-pryunkush-sonowal
+-   **Email:** pronoypryunkushsonowal2002@gmail.com
