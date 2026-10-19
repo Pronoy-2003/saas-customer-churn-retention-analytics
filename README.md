@@ -117,7 +117,7 @@ The dashboard highlights the following findings in the displayed analysis:
 
 For interpretation and recommendations, see [`docs/business_insights.md`](docs/business_insights.md).
 
-## Dashboard, Model, and Output
+## Dashboard
 
 The Power BI report contains four pages.
 
